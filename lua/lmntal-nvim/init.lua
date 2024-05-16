@@ -35,5 +35,6 @@ M.setup = function()
       end)
     end
   end
+end
 
 return M
